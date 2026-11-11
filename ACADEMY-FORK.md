@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Desktop Wallpaper Switcher — https://github.com/VioletGiraffe/desktop-wallpaper-switcher
-- **Original authors:** Copyright (c) 2013 VioletGiraffe; The above copyright notice and this permission notice shall be included in all; COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+- **Original authors:** Copyright (c) 2013 VioletGiraffe
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 0ad69f112d7472608b3c0f3495185cfcb097c743 (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-10
